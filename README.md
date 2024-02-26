@@ -2,5 +2,5 @@
 
 ## How to
 
-### Fix virtual keyboard dissapears when phisical is connected
+### Fix virtual keyboard disappears when the physical one is connected
 `adb shell settings put secure show_ime_with_hard_keyboard 1`
